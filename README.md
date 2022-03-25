@@ -1,1 +1,1 @@
-Laboratory works for "Processing of experimental data" descipline.
+Laboratory works for "Processing of experimental data" decipline.
